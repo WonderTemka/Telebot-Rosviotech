@@ -1,5 +1,5 @@
-Библиотеки необходимые для работы программы
-
+Библиотеки необходимые для работы программы \n
+\n
 telebot - pip install pyTelegramBotAPI
 openpyxl - pip install openpyxl
 datetime - встроенная библиотека питона
